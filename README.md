@@ -6,7 +6,7 @@ HTML
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Você é especial!</title>
+  <title>flowers</title>
   <link rel="stylesheet" href="./style.css">
 
 </head>
