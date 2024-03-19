@@ -7,8 +7,6 @@ HTML
 <head>
   <meta charset="UTF-8">
   <title>flowers</title>
-  <link rel="stylesheet" href="./style.css">
-
 </head>
 <body>
 <style>
